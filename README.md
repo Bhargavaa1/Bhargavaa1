@@ -32,7 +32,7 @@
 
 ****** 
 ### My Favorite Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestrosCMC&layout=compact)](https://github.com/DestrosCMC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaa1&layout=compact)](https://github.com/DestrosCMC/github-readme-stats)
 
 <!---
 
@@ -47,6 +47,3 @@
 
 ### My stats:
 ![Adis github stats](https://github-readme-stats.vercel.app/api?username=bhargavaa1&show_icons=true&theme=cobalt)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bhargavaa1.visitor-badge)
