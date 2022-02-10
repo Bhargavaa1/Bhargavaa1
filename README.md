@@ -1,7 +1,6 @@
 ## Hi there, my name is Adi Bhargava (bhargavaa1) 👋
-<img align="right" alt="GIF" height="235px" width="300px" src="/assets/coding_gif.gif" />
 
-### I am a student studying Data Science and Economics at CMC!
+### I am a student studying Computer Science and Mathematics at Harvey Mudd College!
 
 
 - 🔍 I am interested in Machine Learning, Quant Finance, and Data Science
@@ -47,7 +46,7 @@
 --->
 
 ### My stats:
-![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=DestrosCMC&show_icons=true&theme=cobalt)
+![Adis github stats](https://github-readme-stats.vercel.app/api?username=bhargavaa1&show_icons=true&theme=cobalt)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DestrosCMC.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bhargavaa1.visitor-badge)
