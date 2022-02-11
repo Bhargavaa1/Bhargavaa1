@@ -6,9 +6,8 @@
 - 🔍 I am interested in Machine Learning, Quant Finance, and Data Science
 - 👨‍💻 Right now, I am working on BlockChain projects
 - 🌱 I’m currently learning more about Solidity/Web3
-- 💬 Ask me about skiing ⛷
-- 📫 How to reach me: LinkedIn primarily
-- ⚡ Hobbies & Interests: Freestyle Skiing, Blockchain/Smart Contracts, Machine Learning/AI, English Premier League
+- 📫 How to reach me: Email
+- ⚡ Hobbies & Interests: Poker, Fitness, Music, LA Sports, Basketball
 
 <!---
 - ⚡ Fun fact: 
