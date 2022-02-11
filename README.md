@@ -1,17 +1,10 @@
 ## Hi there, my name is Adi Bhargava (bhargavaa1) 👋
 
 ### I am a student studying Computer Science and Mathematics at Harvey Mudd College!
-
-
-- 🔍 I am interested in Machine Learning, Quant Finance, and Data Science
-- 👨‍💻 Right now, I am working on BlockChain projects
-- 🌱 I’m currently learning more about Solidity/Web3
+- 🔍 I am interested in software engineering and back-end developer roles
 - 📫 How to reach me: Email
 - ⚡ Hobbies & Interests: Poker, Fitness, Music, LA Sports, Basketball
 
-<!---
-- ⚡ Fun fact: 
---->
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/python.png" />
@@ -32,17 +25,6 @@
 ****** 
 ### My Favorite Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaa1&layout=compact)](https://github.com/DestrosCMC/github-readme-stats)
-
-<!---
-
-### What I'm working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Solidity-Beginning)](https://github.com/DestrosCMC/Solidity-Beginning)
-<a href="https://github.com/DestrosCMC/Forecasting-SPY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DestrosCMC&repo=Forecasting-SPY" />
-</a>
-<a href="https://github.com/DestrosCMC/Forecast_revenue">
---->
 
 ### My stats:
 ![Adis github stats](https://github-readme-stats.vercel.app/api?username=bhargavaa1&show_icons=true&theme=cobalt)
