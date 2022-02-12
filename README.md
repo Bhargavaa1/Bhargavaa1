@@ -1,4 +1,4 @@
-## Hi there, my name is Adi Bhargava (@bhargavaa1) 👋
+## Hi there, my name is Adi Bhargava :waving_hand_medium_dark_skin_tone:
 
 ### I am a student studying Computer Science and Mathematics at Harvey Mudd College!
 - 🔍 Currently interested in full-time software engineering, back-end developer, and quantative finance roles
