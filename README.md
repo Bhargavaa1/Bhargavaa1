@@ -1,7 +1,8 @@
 ## Hi there, my name is Adi Bhargava (@bhargavaa1) 👋
 
 ### I am a student studying Computer Science and Mathematics at Harvey Mudd College!
-- 🔍 I am interested in software engineering and back-end developer roles
+- 🔍 Currently interested in full-time software engineering, back-end developer, and quantative finance roles
+- Topics of Interest: Payment Processing
 - 📫 How to reach me: Email
 - ⚡ Hobbies & Interests: Poker, Fitness, Music, LA Sports, Basketball
 
