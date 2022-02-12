@@ -2,7 +2,7 @@
 
 ### I am a student studying Computer Science and Mathematics at Harvey Mudd College!
 - 🔍 Currently interested in full-time software engineering, back-end developer, and quantative finance roles
-- Topics of Interest: FinTech, Investments, Decentralized Currencies, Trading 
+- Topics of Interest: FinTech, Investments, Decentralized Currencies, Payment Processing, Quantative Trading 
 - 📫 How to reach me: [Email](abhargava@g.hmc.edu)
 - ⚡ Hobbies & Interests: Poker, Fitness, Music, LA Sports, Basketball
 
