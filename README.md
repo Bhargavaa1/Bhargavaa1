@@ -1,7 +1,7 @@
 ## Hi there, my name is Adi Bhargava 👋🏾
 
 ### I am a student studying Computer Science and Mathematics at [Harvey Mudd College](https://www.hmc.edu)!
-- 🔍 Searching for new-grad software engineering, back-end developer, quantative trading, quantative research, and consulting roles starting in August 2022
+- 🔍 Searching for new-grad software engineering roles starting in August 2022
 - Topics of Interest: FinTech, Investments, Decentralized Currencies, Payment Processing, Quantative Trading 
 - 📫 How to reach me: Email (abhargava@g.hmc.edu)
 - ⚡ Hobbies & Interests: Poker, Fitness, Music, LA Sports, Basketball
