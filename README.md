@@ -2,9 +2,9 @@
 
 ### I am a student studying Computer Science and Mathematics at [Harvey Mudd College](https://www.hmc.edu)!
 - 🔍 Searching for new-grad software engineering roles starting in August 2022
-- Topics of Interest: FinTech, Investments, Decentralized Currencies, Payment Processing, Quantative Trading 
+- Topics of Interest: FinTech, Payment Processing, Business Process Automation
 - 📫 How to reach me: Email (abhargava@g.hmc.edu)
-- ⚡ Hobbies & Interests: Poker, Fitness, Music, LA Sports, Basketball
+- ⚡ Hobbies & Interests: Poker, LA Sports, Fitness
 
 ### Languages and Tools:
 
