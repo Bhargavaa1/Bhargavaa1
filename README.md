@@ -1,4 +1,4 @@
-## Hi there, my name is Adi Bhargava 👋🏾
+## Hi, My name is Adi Bhargava 👋🏾
 
 ### I am a student studying Computer Science and Mathematics at [Harvey Mudd College](https://www.hmc.edu)!
 - 🔍 Searching for new-grad software engineering roles starting in August 2022
