@@ -7,11 +7,11 @@
 - ⚡ Hobbies & Interests: Poker, LA Sports, Fitness
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/python.png"/>
+<img align="left" alt="Python" width="33px" src="https://github.com/Bhargavaa1/Bhargavaa1/main/logos/python.png"/>
+<img align="left" alt="C++" width="33px" src="https://github.com/Bhargavaa1/Bhargavaa1/main/logos/cpp.png"/>
 </br>
 
 ### My Favorite Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaa1&layout=compact)](https://github.com/bhargavaa1/github-readme-stats)
-
 
 ### My stats:
