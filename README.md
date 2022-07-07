@@ -12,7 +12,7 @@
 </br>
 
 ## My Favorite Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavaa1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavaa1)](https://github.com/Bhargavaa1/github-readme-stats)
 
 ## My stats:
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavaa1&show_icons=true&theme=onedark&count_private=true)
