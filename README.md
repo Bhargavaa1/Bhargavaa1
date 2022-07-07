@@ -1,8 +1,8 @@
-## Hi, My name is Adi Bhargava 👋🏾
+## Hi! My name is Adi Bhargava 👋🏾
 
-### I am a student studying Computer Science and Mathematics at [Harvey Mudd College](https://www.hmc.edu)!
+### I am a student studying Computer Science and Mathematics at [Harvey Mudd College](https://www.hmc.edu)
 - 🔍 Searching for new-grad software engineering roles starting in September 2022
-- Topics of Interest: FinTech, Payment Processing, Business Process Automation
+-    Topics of Interest: FinTech, Payment Processing, Business Process Automation, Technology
 - 📫 How to reach me: Email (abhargava@g.hmc.edu)
 - ⚡ Hobbies & Interests: Poker, LA Sports, Fitness
 
