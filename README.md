@@ -15,4 +15,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaa1&layout=compact)](https://github.com/bhargavaa1/github-readme-stats)
 
 ## My stats:
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavaa1&show_icons=true&theme=onedark)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavaa1&show_icons=true&theme=onedark&count_private=true)
