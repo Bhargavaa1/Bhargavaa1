@@ -7,8 +7,8 @@
 - ⚡ Hobbies & Interests: Poker, LA Sports, Fitness
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="33px" src="https://github.com/Bhargavaa1/Bhargavaa1/main/logos/python.png"/>
-<img align="left" alt="C++" width="33px" src="https://github.com/Bhargavaa1/Bhargavaa1/main/logos/cpp.png"/>
+<img align="left" alt="Python" width="33px" src="https://github.com/Bhargavaa1/Bhargavaa1/blob/main/icons/python.png"/>
+<img align="left" alt="C++" width="33px" src="https://github.com/Bhargavaa1/Bhargavaa1/blob/main/icons/cpp.png"/>
 </br>
 
 ### My Favorite Languages:
