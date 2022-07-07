@@ -3,7 +3,7 @@
 ### I am a student studying Computer Science and Mathematics at [Harvey Mudd College](https://www.hmc.edu)
 - 🔍 Searching for new-grad software engineering roles starting in September 2022
 -    Topics of Interest: FinTech, Payment Processing, Business Process Automation, Technology
-- 📫 How to reach me: Email (abhargava@g.hmc.edu)
+- 📫 How to reach me: Email (abhargava@g.hmc.edu) and LinkedIn (https://www.linkedin.com/in/bhargavaadi/)
 - ⚡ Hobbies & Interests: Poker, LA Sports, Fitness
 
 ### Languages and Tools:
