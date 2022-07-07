@@ -8,8 +8,6 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="33px" src="https://github.com/DestrosCMC/DestrosCMC/blob/main/assets/logos/python.png" />
-
 ### My Favorite Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaa1&layout=compact)](https://github.com/bhargavaa1/github-readme-stats)
-
 ### My stats:
